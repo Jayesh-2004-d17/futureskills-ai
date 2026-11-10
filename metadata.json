@@ -1,0 +1,6 @@
+{
+  "name": "FutureSkills AI",
+  "description": "Practical AI and digital-skills programmes for students and young professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
